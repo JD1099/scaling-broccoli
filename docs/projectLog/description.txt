@@ -1,0 +1,7 @@
+Feb 27 2022
+Jordan Bell
+jb49816@gmail.com
+
+Personally I think it is important to keep record of any updates to this project. This folder will be used to store README files from past releases.
+
+Additionally I feel quite lonesome when writing code so I will be using this space to record my thoughts and ideas for my project in a manner that may resemble my own internal monologue.
